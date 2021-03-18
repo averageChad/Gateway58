@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gateway58
-- 👀 I’m interested programing
+- 👀 I’m interested in programing
 - 🌱 I’m currently learning how program
 - 💞️ I’m looking to collaborate with myself
 - 📫 How to reach me: you don't want to reach me
