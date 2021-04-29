@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate with myself
 - 📫 How to reach me: you don't want to reach me
 - My Tools are: VS Code, VS Community 2019, Github Desktop. Extensions i use in VS Code:  
+- https://github.com/Gateway58/Gateways-coole-Coding-trash-Ablage/blob/main/extensions.md
 <!---
 Gateway58/Gateway58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
