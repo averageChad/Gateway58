@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to be reasonable 
 - 💞️ I’m looking to collaborate with myself
 - 📫 How to reach me: you don't want to reach me
-- My Tools are: VS Code, VS Community 2019, Github Desktop. Extensions i use in VS Code:  
+- My Tools are: VS Code, VS Community 2019, Github Desktop, Tor Browser, dragostea din tei. Extensions i use in VS Code:  
 - https://github.com/Gateway58/Gateways-coole-Coding-trash-Ablage/blob/main/extensions.md
 - All Rights from my Profile Picture go to BillWurtz. Editing software: GIMP, Inkscape (both free and avalibel on linux) 
 <!---
